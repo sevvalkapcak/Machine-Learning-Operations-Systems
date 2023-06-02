@@ -3,5 +3,5 @@ import subprocess
 # Jupyter Notebook dosyanızı çalıştırma
 subprocess.run(['jupyter', 'nbconvert', '--execute', 'notebook.ipynb'])
 
-# Raporlama veya test senaryolarını ekleyebilirsiniz
-# Testlerinizin sonuçlarını raporlayabilir veya başka işlemler gerçekleştirebilirsiniz
+# Raporlama veya test senaryoları eklenecek.
+# Testlerin sonuçlarını raporlanacak
